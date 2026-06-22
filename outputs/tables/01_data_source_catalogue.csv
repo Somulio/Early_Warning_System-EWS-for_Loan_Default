@@ -1,0 +1,11 @@
+source_name,system_of_record,file,n_rows,n_cols,n_unique_keys,max_null_pct_any_col,cols_with_nulls
+application,LOS (Loan Origination System),01_customer_application_data.xlsx,500,12,500,0.0,0
+behavioral,CBS Behaviour Scorecard Feed,02_behavioral_data.xlsx,500,7,500,0.0,0
+bureau,Credit Bureau API (CIBIL/Experian/CRIF),03_bureau_data.xlsx,500,17,500,0.0,0
+loan,CBS / Finacle Loan Master,04_loan_account_data.xlsx,500,11,500,0.0,0
+transaction,CBS Transaction Ledger,05_transaction_data.xlsx,500,13,500,10.4,1
+repayment,EMI / NACH Repayment Tracker,06_repayment_history_data.xlsx,500,14,500,0.0,0
+collateral,Collateral Management System,07_collateral_data.xlsx,500,10,500,80.2,7
+collection,Collections & Recovery System,08_collection_data.xlsx,500,12,500,63.8,2
+macro,RBI / CMIE Macro-Economic Feed,09_macroeconomic_data.xlsx,24,8,24,0.0,0
+master,EDW Modelling Extract (joined),10_master_modelling_table.xlsx,500,39,500,63.8,3

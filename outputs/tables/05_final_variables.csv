@@ -1,0 +1,13 @@
+variable,type,IV,n_bins
+Outstanding_Loans,numeric,0.1464,5
+Pay_History,categorical,0.1428,3
+Delinquency_12M,numeric,0.1108,3
+Interest_Rate_Pct,numeric,0.0945,5
+No_of_Inquiries_6M,numeric,0.0882,3
+Loan_Type,categorical,0.0872,5
+Total_Current_Balance,numeric,0.0861,5
+Transaction_Count_3M,numeric,0.075,5
+Credit_Utilization_Ratio,numeric,0.0662,5
+Marital_Status,categorical,0.0649,3
+Education_Level,categorical,0.0645,4
+Employment_Years,numeric,0.0628,5
