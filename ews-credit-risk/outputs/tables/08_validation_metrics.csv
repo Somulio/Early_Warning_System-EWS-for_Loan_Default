@@ -1,4 +1,0 @@
-sample,n,AUC_c_stat,Gini_AR,KS_pct,Concordant_pct,Discordant_pct,Tied_pct
-TRAIN,280,0.7538,0.5076,38.64,74.72,24.12,1.16
-TEST,120,0.628,0.256,25.33,62.6,36.56,0.84
-OOT,100,0.625,0.25,28.86,61.74,37.16,1.09
